@@ -1,2 +1,2 @@
 # Chandler's GIS Portfolio
-GIS portfolio
+I am a part-time student at Colorado Mountain College pursuing a GIS Advanced Certificate. I have a Bachelor's Degree in Structural Engineering from Cal Poly (2013) and have worked as an engineer, recruiter, and summer camp director since graduating. I learned about GIS through my work as an engineering recruitment consultant and figured it would be a great way to turn my passion for maps into a career. 
