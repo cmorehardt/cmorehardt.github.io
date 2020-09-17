@@ -1,2 +1,2 @@
-# cmorehardt.github.io
+# Chandler's GIS Portfolio
 GIS portfolio
