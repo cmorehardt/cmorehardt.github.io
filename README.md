@@ -5,3 +5,5 @@ I created a map for my current employer - Adventure Unlimited (aka A/U Ranches).
 ![AU Ranches Trail Map](AU_trail_map.jpg)
 ## Political Signs Map
 I mapped the political signs around Buena Vista, CO a month before the 2020 Election to see if they are an accurate prediction of how Chaffee County will vote for both the national and local election. 
+![Presidential Election sign map](Project1-GIS210-Morehardt-TrumpBiden.jpg)
+![Chaffee County Commissioner Election sign map](Project1-GIS210-Morehardt-HannahBaker.jpg)
