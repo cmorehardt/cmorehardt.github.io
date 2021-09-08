@@ -1,6 +1,6 @@
 # Chandler's GIS Portfolio
 I am a part-time student at Colorado Mountain College pursuing a GIS Advanced Certificate. I have a Bachelor's Degree in Structural Engineering from Cal Poly (2013) and have worked as an engineer, recruiter, and summer camp director since graduating. I learned about GIS through my work as an engineering recruitment consultant and figured it would be a great way to turn my passion for maps into a career. 
-## GIS 101 Final project
+## A/U Ranches Trail Map
 I created a map for my current employer - Adventure Unlimited (aka A/U Ranches). I am a camp director for an 1,100 acre camp in Buena Vista, CO. We have a network of trails on property that guests are always getting lost on. I decided to use data from my Strava account as well as collaborating with our in-house forestry team to create a map that more accurately shows our trail network for hikers, bikers, runners, and horseback riders. 
 ![AU Ranches Trail Map](AURanchesTrailMap.jpg)
 ## 100 Elk Outdoor Center - school diversity 
@@ -10,6 +10,8 @@ I created a map for my current employer - Adventure Unlimited (aka A/U Ranches).
 I joined the Chaffee County Search and Rescue – North (CCSAR-North) about a year ago and was curious to look at past years data to see if there are any trends that might be helpful in preventing future incidents. The audience for this map is primarily members of CCSAR-North but it could also be useful to recreation users in Chaffee County for people to know where incidents are happening. 
 ![Mission types](Project2_Main.jpg)
 ![Mission density](Project2_Density.jpg)
+## COVID Business Status
+During the Spring 2020 semester, our class focused on creating StoryMaps that would help members of our local community determine which businesses were open, open with restrictions, or closed. My StoryMap was featured in the Chaffee County Times and viewed more than 600 times. You can view it here: https://arcg.is/0zXe5G0 (has not been updated since June 2020)
 ## Political Signs in Buena Vista
 I mapped the political signs around Buena Vista, CO, using ArcGIS Collector, a month before the 2020 Election to see if they are an accurate prediction of how Chaffee County will vote for both the national and local election. 
 ![Four different types of political signs in Buena Vista, CO](Project1-GIS131-Morehardt.jpg)
