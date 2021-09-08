@@ -6,6 +6,10 @@ I created a map for my current employer - Adventure Unlimited (aka A/U Ranches).
 ## 100 Elk Outdoor Center - school diversity 
 100 Elk Outdoor Center is an outdoor education program that is part of the organization I work for (Adventure Unlimited in Buena Vista, CO). 100 Elk hosts schools from Colorado and New Mexico in the spring and fall to come up and play in the mountains while taking lessons learned outside back to the classroom. The goal is this project is to map the schools that come to 100 Elk and analyze things like: What is the average income for each school district? What is the racial diversity of each school? 
 ![100 Elk Outdoor Center - school diversity](Project2_100Elk_Schools.jpg)
+## Chaffee County Search and Rescue Mission Analysis
+I joined the Chaffee County Search and Rescue – North (CCSAR-North) about a year ago and was curious to look at past years data to see if there are any trends that might be helpful in preventing future incidents. The audience for this map is primarily members of CCSAR-North but it could also be useful to recreation users in Chaffee County for people to know where incidents are happening. 
+![Mission types](Project2_Main.jpg)
+![Mission density](Project2_Density.jpg)
 ## Political Signs in Buena Vista
 I mapped the political signs around Buena Vista, CO, using ArcGIS Collector, a month before the 2020 Election to see if they are an accurate prediction of how Chaffee County will vote for both the national and local election. 
 ![Four different types of political signs in Buena Vista, CO](Project1-GIS131-Morehardt.jpg)
