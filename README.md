@@ -10,3 +10,4 @@ I mapped the political signs around Buena Vista, CO, using ArcGIS Collector, a m
 ![Chaffee County Commissioner Election sign map](Project1-GIS210-Morehardt-HannahBaker.jpg)
 ## 100 Elk Outdoor Center - school diversity 
 100 Elk Outdoor Center is an outdoor education program that is part of the organization I work for (Adventure Unlimited in Buena Vista, CO). 100 Elk hosts schools from Colorado and New Mexico in the spring and fall to come up and play in the mountains while taking lessons learned outside back to the classroom. The goal is this project is to map the schools that come to 100 Elk and analyze things like: What is the average income for each school district? What is the racial diversity of each school? 
+![100 Elk Outdoor Center - school diversity](Project2_100Elk_Schools.jpg)
