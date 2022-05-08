@@ -3,7 +3,7 @@ I recently completed my Advanced GIS Certificate from Colorado Mountain College 
 Highlights of my GIS career so far have included being able to create a helpful resource for locals during COVID, being awarded a $500 scholarship for a trail map, and making connections with others in the GIS community. 
 ## Ski Commute Times
 Final project for Cartography class showing the various commute times from different locations throughout Colorado. 
-![Ski Commute Times](Project1_Morehardt.jpg)
+![Ski Commute Times](Project2_Morehardt.jpg)
 ## A/U Ranches Trail Map
 I created a map for my current employer - Adventure Unlimited (aka A/U Ranches). I am a camp director for an 1,100 acre camp in Buena Vista, CO. We have a network of trails on property that guests are always getting lost on. I used data from my Strava account as well as collaborating with our in-house forestry team to create a map that more accurately shows our trail network for hikers, bikers, runners, and horseback riders. 
 ![AU Ranches Trail Map](AURanchesTrailMap.jpg)
