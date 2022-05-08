@@ -1,6 +1,9 @@
 # Chandler's GIS Portfolio
-I am a part-time student at Colorado Mountain College pursuing a GIS Advanced Certificate. I have a Bachelor's Degree in Structural Engineering from Cal Poly (2013) and have worked as an engineer, recruiter, and summer camp director since graduating. I learned about GIS through my work as an engineering recruitment consultant in New Zealand. 
+I recently completed my Advanced GIS Certificate from Colorado Mountain College in May 2022. I have a Bachelor's Degree in Structural Engineering from Cal Poly (2013) and have worked as an engineer, recruiter, and summer camp director since graduating. I learned about GIS through my work as an engineering recruitment consultant in New Zealand. 
 Highlights of my GIS career so far have included being able to create a helpful resource for locals during COVID, being awarded a $500 scholarship for a trail map, and making connections with others in the GIS community. 
+## Ski Commute Times
+Final project for Cartography class showing the various commute times from different locations throughout Colorado. 
+![Ski Commute Times](Project 2_CMorehardt.jpg)
 ## A/U Ranches Trail Map
 I created a map for my current employer - Adventure Unlimited (aka A/U Ranches). I am a camp director for an 1,100 acre camp in Buena Vista, CO. We have a network of trails on property that guests are always getting lost on. I used data from my Strava account as well as collaborating with our in-house forestry team to create a map that more accurately shows our trail network for hikers, bikers, runners, and horseback riders. 
 ![AU Ranches Trail Map](AURanchesTrailMap.jpg)
