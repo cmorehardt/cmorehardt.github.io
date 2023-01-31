@@ -1,6 +1,7 @@
 # Chandler's GIS Portfolio
-I recently completed my Advanced GIS Certificate from Colorado Mountain College in May 2022. I have a Bachelor's Degree in Structural Engineering from Cal Poly (2013) and have worked as an engineer, recruiter, and summer camp director since graduating. I learned about GIS through my work as an engineering recruitment consultant in New Zealand. 
-Highlights of my GIS career so far have included being able to create a helpful resource for locals during COVID, being awarded a $500 scholarship for a trail map, and making connections with others in the GIS community. 
+I currently work for Summit County Government as a GIS Technician (since August 2022). Prior to that I completed my GIS Certificate at Colorado Mountain College. Below are some collections of my work. 
+## Silverthorne Nordic Center
+
 ## Ski Commute Times
 Final project for Cartography class showing the various commute times from different locations throughout Colorado. 
 ![Ski Commute Times](Project2_Morehardt.jpg)
