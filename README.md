@@ -9,7 +9,7 @@ Final project for Cartography class showing the various commute times from diffe
 ![Ski Commute Times](Project2_Morehardt.jpg)
 ## A/U Ranches Trail Map
 I created a map for my current employer - Adventure Unlimited (aka A/U Ranches). I am a camp director for an 1,100 acre camp in Buena Vista, CO. We have a network of trails on property that guests are always getting lost on. I used data from my Strava account as well as collaborating with our in-house forestry team to create a map that more accurately shows our trail network for hikers, bikers, runners, and horseback riders. 
-![AU Ranches Trail Map](AURanchesTrailMap.jpg)
+![AU Ranches Trail Map](AUTrailMap2024.jpg)
 ## 100 Elk Outdoor Center - school diversity 
 100 Elk Outdoor Center is an outdoor education program that is part of the organization I work for (Adventure Unlimited in Buena Vista, CO). 100 Elk hosts schools from Colorado and New Mexico in the spring and fall to come up and play in the mountains while taking lessons learned outside back to the classroom. The goal is this project is to map the schools that come to 100 Elk and analyze things like: What is the average income for each school district? What is the racial diversity of each school? 
 ![100 Elk Outdoor Center - school diversity](Project2_100Elk_Schools.jpg)
