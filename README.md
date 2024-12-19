@@ -1,7 +1,7 @@
 # Chandler's GIS Portfolio
 I currently work for Summit County Government as a GIS Technician (since August 2022). Prior to that I completed my GIS Certificate at Colorado Mountain College. Below are some collections of my work. 
 ## Summit County Recpath
-
+![Summit County Recpath](RecPathOverview.pdf)
 ## Silverthorne Nordic Center
 ![Silverthorne Nordic Center](Silverthorne_Nordic_Center_layout_QR.jpg)
 ## Ski Commute Times
